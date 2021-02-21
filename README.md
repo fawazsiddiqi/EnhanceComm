@@ -42,7 +42,7 @@ We show you how to create a chatbot using Watson Assistant, a tool that enables 
 
     ![Watson Assistant Photo4 ](images/WA-Photo4.png)
 *
-1. Click **Import Skill > Choose JSON file** and import the [`Covid Json`](https://github.com/Call-for-Code/Solution-Starter-Kit-Communication-2020/blob/master/starter-kit/assistant/skill-CDC-COVID-FAQ.json) file.
+1. Click **Import Skill > Choose JSON file** and import the [`data/skill-CDC-COVID-FAQ.json`](https://github.com/fawazsiddiqi/EnhanceComm/blob/master/data/skill-CDC-COVID-FAQ.json) file.
 
     ![Watson Assistant Photo5 ](images/WA-Photo5.png)
 
@@ -124,7 +124,7 @@ You need an API key to use The Weather Company API for COVID-19 Disease Tracking
 
 ### Create Cloud Functions
 
-1. In the IBM Cloud catalog, go to [IBM Cloud Functions](https://cloud.ibm.com/functions/?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg).
+1. In the IBM Cloud catalog, go to [IBM Cloud Functions](https://cloud.ibm.com/functions/).
 
 1. Click **Start Creating**.
 
@@ -138,7 +138,7 @@ You need an API key to use The Weather Company API for COVID-19 Disease Tracking
 
     ![environment](images/create-action-env.png)
 
-1. Replace the code with [data/covid-webhook.js](https://github.com/Call-for-Code/Solution-Starter-Kit-Communication-2020/blob/master/starter-kit/webhook/action/covid-webhook.js)
+1. Replace the code with [data/covid-webhook.js](https://github.com/fawazsiddiqi/EnhanceComm/blob/master/data/covid-webhook.js)
 
     ![code](images/code.png)
 
@@ -251,3 +251,11 @@ Now that you know how to create a COVID-19 chatbot and connect it to Watson Disc
 * [Embed your COVID-19 chatbot on a website](https://developer.ibm.com/tutorials/tutorials/create-a-covid-19-chatbot-embedded-on-a-website/)
 * [Integrate your COVID-19 chatbot with Slack](https://developer.ibm.com/tutorials/create-crisis-communication-chatbot-integrate-slack/)
 * [Integrate your COVID-19 chatbot with Node-RED to enable voice commands](https://developer.ibm.com/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/)
+
+# Workshoop Resources 
+
+Sign up/Log in to your IBM Cloud Account:**https://ibm.biz/EnhanceComm**
+
+Link to tutorial:**https://ibm.biz/EnhanceComm-Tutorial**
+
+Link to slides:**https://ibm.biz/EnhanceComm-Slides**
