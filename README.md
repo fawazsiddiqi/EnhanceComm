@@ -34,7 +34,7 @@ We show you how to create a chatbot using Watson Assistant, a tool that enables 
 
     ![Watson Assistant Photo2 ](images/WA-Photo2.png)
 
-1. Name the Watson Assistance instance **COVID Crisis Communication**.
+1. Name the Watson Assistant instance **COVID Crisis Communication**.
 
     ![Watson Assistant Photo3 ](images/WA-Photo3.png)
 
@@ -230,7 +230,7 @@ Now that you know how to create a COVID-19 chatbot and connect it to Watson Disc
 * [Integrate your COVID-19 chatbot with Slack](https://developer.ibm.com/tutorials/create-crisis-communication-chatbot-integrate-slack/)
 * [Integrate your COVID-19 chatbot with Node-RED to enable voice commands](https://developer.ibm.com/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/)
 
-# Workshoop Resources 
+# Workshop Resources 
 
 - Sign up/Log in to your IBM Cloud Account: https://ibm.biz/EnhanceComm
 
