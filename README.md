@@ -232,11 +232,11 @@ Now that you know how to create a COVID-19 chatbot and connect it to Watson Disc
 
 # Workshoop Resources 
 
-- Sign up/Log in to your IBM Cloud Account:https://ibm.biz/EnhanceComm
+- Sign up/Log in to your IBM Cloud Account: https://ibm.biz/EnhanceComm
 
-- Link to tutorial:https://ibm.biz/EnhanceComm-Tutorial
+- Link to tutorial: https://ibm.biz/EnhanceComm-Tutorial
 
-- Link to slides:https://ibm.biz/EnhanceComm-Slides
+- Link to slides: https://ibm.biz/EnhanceComm-Slides
 
 ## Code Content Authors
 
