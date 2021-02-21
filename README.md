@@ -259,3 +259,12 @@ Sign up/Log in to your IBM Cloud Account:**https://ibm.biz/EnhanceComm**
 Link to tutorial:**https://ibm.biz/EnhanceComm-Tutorial**
 
 Link to slides:**https://ibm.biz/EnhanceComm-Slides**
+
+## Code Content Authors
+
+- [Donna Byron](https://developer.ibm.com/profiles/dkbyron/) - IBM
+- [John Walicki](https://developer.ibm.com/profiles/walicki/) - IBM
+- [Matt Price](https://developer.ibm.com/profiles/pricem/) - IBM
+- [Mofizur Rahman](https://developer.ibm.com/profiles/mofizur.rahman) - IBM
+- [Pooja Mistry](https://developer.ibm.com/profiles/pmistry/) - IBM
+- [Upkar Lidder](https://developer.ibm.com/profiles/ulidder/) - IBM
