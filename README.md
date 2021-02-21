@@ -82,7 +82,6 @@ Our crisis communication chatbot uses three different data sources:
 
 - [Watson Discovery](https://www.ibm.com/cloud/watson-discovery)
 - [COVID-19 API](https://covid19api.com/)
-- [Weather Company data](https://weather.com/coronavirus/l/35.7358,-78.8955)
 
 ### Defining webhooks
 
@@ -111,16 +110,6 @@ It sends the data as part of a HTTP POST request to the URL that you specify as 
 5. From the top right corner, open the API tab. Make note of the Collection ID and Environment ID.
 
     ![NEWS Api info](images/news-api-info.png)
-
-### Get a Weather Company API key
-
-You need an API key to use The Weather Company API for COVID-19 Disease Tracking. [Call for Code](https://developer.ibm.com/callforcode/) participants can read the Terms of Service and register to join the [Call for Code 2020 COVID Challenge](https://developer.ibm.com/callforcode/get-started/covid-19/) and request a TWC API key.
-
-1. Go to [https://callforcode.weather.com/register/](https://callforcode.weather.com/register/)
-
-2. Sign up for an API key with your information. Your API key will be emailed to you.
-
-3. Save the API key for future use.
 
 ### Create Cloud Functions
 
@@ -187,7 +176,6 @@ You need an API key to use The Weather Company API for COVID-19 Disease Tracking
 1. If you want to make a call to the Discovery service, you need to set some parameters that let you call the IAM-enabled service. On the left, click on the **Parameters** tab. Add the following parameters:
 
     - `api_key`(Discovery API key)
-    - `twcApiKey` (API key from The Weather Company)
     - `url` (URL to your Discovery service instance)
     - `collection_id`
     - `env_id`
