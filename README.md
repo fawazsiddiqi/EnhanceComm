@@ -163,16 +163,6 @@ It sends the data as part of a HTTP POST request to the URL that you specify as 
     }
     ```
 
-1. If there is specific location (Country/Country Code/US State) selected, you look for that location either using The Weather Company API or in the summary response and return the status for that location.
-
-    For example, the response for `type=api` and `location=United States of America` is shown below.
-
-    ```
-    {
-      "result": "Total Cases: 65778\nTotal Deaths: 942\nTotal Recovered: 361\n\nSource: Johns Hopkins CSSE"
-    }
-    ```
-
 1. If you want to make a call to the Discovery service, you need to set some parameters that let you call the IAM-enabled service. On the left, click on the **Parameters** tab. Add the following parameters:
 
     - `api_key`(Discovery API key)
