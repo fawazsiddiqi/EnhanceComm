@@ -20,6 +20,10 @@ Register for an [IBM Cloud](https://cloud.ibm.com/registration?cm_mmc=Inpersondi
 
 This tutorial takes about 40 minutes to complete.
 
+## Architecture
+
+![arch](images/architecture.png)
+
 ## Create your chatbot by setting up a Watson Assistant instance
 
 We show you how to create a chatbot using Watson Assistant, a tool that enables you to build conversational interfaces into any application, device, or channel.
