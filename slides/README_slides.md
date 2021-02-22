@@ -107,3 +107,7 @@ jupyter:
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ![center](https://github.com/fawazsiddiqi/EnhanceComm/blob/master/images/slide_images/Slide24.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/fawazsiddiqi/EnhanceComm/blob/master/images/slide_images/Slide25.png?raw=true)
